@@ -3,6 +3,18 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# C107
+Cabbage/
+yolo/runs_cabbage
+preprocess/output
+AutoEncoder/images/train
+AutoEncoder/images/val
+AutoEncoder/images/test
+AutoEncoder/viz_test
+
+# poetry
+poetry.lock
+
 # C extensions
 *.so
 

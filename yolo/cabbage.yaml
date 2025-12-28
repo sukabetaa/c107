@@ -1,0 +1,12 @@
+# cabbage.yaml
+
+# 画像フォルダへのパス
+train: C:\dev\c107\Cabbage\images
+val:   C:\dev\c107\Cabbage\images
+
+# クラス数
+nc: 1
+
+# クラス名リスト（インデックス0 → "cabbage"）
+names:
+  - cabbage
